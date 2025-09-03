@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JpaH2StudentCrudDemoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(JpaH2StudentCrudDemoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(JpaH2StudentCrudDemoApplication.class, args);
+    }
 
 }
